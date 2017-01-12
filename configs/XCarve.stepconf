@@ -21,8 +21,8 @@
   <property name="customhal" type="int" value="1"/>
   <property name="digitsin" type="float" value="15.0"/>
   <property name="digitsout" type="float" value="15.0"/>
-  <property name="dirhold" type="float" value="20000.0"/>
-  <property name="dirsetup" type="float" value="1000.0"/>
+  <property name="dirhold" type="float" value="650.0"/>
+  <property name="dirsetup" type="float" value="650.0"/>
   <property name="drivertype" type="string" value="other"/>
   <property name="floatsin" type="float" value="10.0"/>
   <property name="floatsout" type="float" value="10.0"/>
@@ -140,8 +140,8 @@
   <property name="spindlepwm2" type="float" value="0.8"/>
   <property name="spindlespeed1" type="float" value="100.0"/>
   <property name="spindlespeed2" type="float" value="800.0"/>
-  <property name="stepspace" type="float" value="4000.0"/>
-  <property name="steptime" type="float" value="500.0"/>
+  <property name="stepspace" type="float" value="1900.0"/>
+  <property name="steptime" type="float" value="1900.0"/>
   <property name="tempexists" type="int" value="0"/>
   <property name="units" type="int" value="1"/>
   <property name="usespindleatspeed" type="bool" value="False"/>
